@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElMecanicoLoco</string>
+    <string name="fotoLogo">fotoLogo</string>
+    <string name="nombre1">Nombre:</string>
+    <string name="tlf1">Telefono:</string>
+    <string name="matricula1">Matricula:</string>
+    <string name="relleneDatos">Rellene sus datos</string>
+    <string name="boton_continuar">CONTINUAR</string>
+</resources>
